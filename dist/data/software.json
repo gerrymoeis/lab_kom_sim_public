@@ -1,0 +1,1232 @@
+[
+  {
+    "id": 10,
+    "name": "Android Studio",
+    "category": "required",
+    "description": "IDE untuk pengembangan Android",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 21,
+    "total_pcs": 43
+  },
+  {
+    "id": 5,
+    "name": "Blender",
+    "category": "required",
+    "description": "Software modeling dan animasi 3D",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 31,
+    "total_pcs": 43
+  },
+  {
+    "id": 6,
+    "name": "Cisco Packet Tracer",
+    "category": "required",
+    "description": "Simulator jaringan Cisco",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 31,
+    "total_pcs": 43
+  },
+  {
+    "id": 9,
+    "name": "Composer",
+    "category": "required",
+    "description": "Dependency manager untuk PHP",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 29,
+    "total_pcs": 43
+  },
+  {
+    "id": 12,
+    "name": "Figma",
+    "category": "required",
+    "description": "Design dan prototyping kolaboratif",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 11,
+    "total_pcs": 43
+  },
+  {
+    "id": 11,
+    "name": "Git",
+    "category": "required",
+    "description": "Version control system",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 20,
+    "total_pcs": 43
+  },
+  {
+    "id": 13,
+    "name": "Node.js",
+    "category": "required",
+    "description": "JavaScript runtime environment",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 9,
+    "total_pcs": 43
+  },
+  {
+    "id": 2,
+    "name": "PHP + Xampp",
+    "category": "required",
+    "description": "Web server lokal dengan PHP dan MySQL",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 37,
+    "total_pcs": 43
+  },
+  {
+    "id": 8,
+    "name": "Postman",
+    "category": "required",
+    "description": "API testing dan development tool",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 31,
+    "total_pcs": 43
+  },
+  {
+    "id": 3,
+    "name": "Python",
+    "category": "required",
+    "description": "Bahasa pemrograman serbaguna",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 36,
+    "total_pcs": 43
+  },
+  {
+    "id": 14,
+    "name": "SQL Server",
+    "category": "required",
+    "description": "Microsoft SQL Server database",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 8,
+    "total_pcs": 43
+  },
+  {
+    "id": 4,
+    "name": "Unity",
+    "category": "required",
+    "description": "Game engine multiplatform",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 35,
+    "total_pcs": 43
+  },
+  {
+    "id": 1,
+    "name": "Visual Studio Code",
+    "category": "required",
+    "description": "Code editor untuk berbagai bahasa pemrograman",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 37,
+    "total_pcs": 43
+  },
+  {
+    "id": 7,
+    "name": "Wireshark",
+    "category": "required",
+    "description": "Network protocol analyzer",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 29,
+    "total_pcs": 43
+  },
+  {
+    "id": 75,
+    "name": "7zip",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 5,
+    "total_pcs": 43
+  },
+  {
+    "id": 63,
+    "name": "Alan Wake",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 59,
+    "name": "Antigravity",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 107,
+    "name": "Banana Hell: Mountain of Madness (Game)",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 83,
+    "name": "Bandicam",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 3,
+    "total_pcs": 43
+  },
+  {
+    "id": 94,
+    "name": "BlueStacks",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 84,
+    "name": "Bluestacks",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 2,
+    "total_pcs": 43
+  },
+  {
+    "id": 20,
+    "name": "Brave Browser",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 11,
+    "total_pcs": 43
+  },
+  {
+    "id": 116,
+    "name": "Brave browser",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 24,
+    "name": "C++",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 98,
+    "name": "CPUID",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 36,
+    "name": "Capcut",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 85,
+    "name": "Chatgpt",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 64,
+    "name": "Cheat Engine",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 65,
+    "name": "Counter Strike 2",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 102,
+    "name": "Counter Strike Condition 0",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 15,
+    "name": "Counter Strike Condition Zero",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 120,
+    "name": "Counter strike condition 0",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 18,
+    "name": "Curseforge",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 81,
+    "name": "Cursor",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 56,
+    "name": "Custom Cursor",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 99,
+    "name": "Delta Force",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 103,
+    "name": "Denuvo anti cheat",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 121,
+    "name": "Discord",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 122,
+    "name": "Docker Desktop",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 117,
+    "name": "Eclipse Temurin JDK",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 118,
+    "name": "Epic Games Launcher",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 93,
+    "name": "Epic Online Services",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 100,
+    "name": "Fast Node Manager",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 104,
+    "name": "Fears to Fathom Episode 1",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 105,
+    "name": "Fears to Fathom Ironbark Lookout",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 66,
+    "name": "Firewatch",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 67,
+    "name": "Forza Horizon 4",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 40,
+    "name": "Foxit Reader",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 9,
+    "total_pcs": 43
+  },
+  {
+    "id": 77,
+    "name": "Foxit reader",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 5,
+    "total_pcs": 43
+  },
+  {
+    "id": 55,
+    "name": "Free Fire Max",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 119,
+    "name": "GameLoop",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 45,
+    "name": "Gamehouse",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 57,
+    "name": "Garena",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 60,
+    "name": "Genshin Impact",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 86,
+    "name": "Genymotion",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 52,
+    "name": "Github Desktop",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 49,
+    "name": "Google Chrome",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 21,
+    "total_pcs": 43
+  },
+  {
+    "id": 87,
+    "name": "Google Play",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 4,
+    "total_pcs": 43
+  },
+  {
+    "id": 38,
+    "name": "Google Play Games",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 2,
+    "total_pcs": 43
+  },
+  {
+    "id": 23,
+    "name": "Grass",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 21,
+    "name": "Growtopia",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 5,
+    "total_pcs": 43
+  },
+  {
+    "id": 25,
+    "name": "IDM",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 78,
+    "name": "Internet Download Manager (IDM)",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 4,
+    "total_pcs": 43
+  },
+  {
+    "id": 76,
+    "name": "Java",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 3,
+    "total_pcs": 43
+  },
+  {
+    "id": 95,
+    "name": "Krita",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 68,
+    "name": "Laragon",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 4,
+    "total_pcs": 43
+  },
+  {
+    "id": 46,
+    "name": "Left 4 Dead 2",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 50,
+    "name": "Lively Wallpaper",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 3,
+    "total_pcs": 43
+  },
+  {
+    "id": 88,
+    "name": "MEmu",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 109,
+    "name": "MLWapp",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 51,
+    "name": "MSYS2",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 2,
+    "total_pcs": 43
+  },
+  {
+    "id": 61,
+    "name": "Makehuman",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 4,
+    "total_pcs": 43
+  },
+  {
+    "id": 32,
+    "name": "Marvel Rivals",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 27,
+    "name": "Mendeley",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 41,
+    "name": "Mozilla Firefox",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 11,
+    "total_pcs": 43
+  },
+  {
+    "id": 114,
+    "name": "MySQL",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 89,
+    "name": "Need For Speed",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 37,
+    "name": "OBS Studio",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 5,
+    "total_pcs": 43
+  },
+  {
+    "id": 96,
+    "name": "OpenAL",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 19,
+    "name": "Opera Browser",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 6,
+    "total_pcs": 43
+  },
+  {
+    "id": 90,
+    "name": "Oracle VM Virtual Box",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 47,
+    "name": "Oracle VirtualBox",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 79,
+    "name": "Osu",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 108,
+    "name": "Overcooked 2",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 69,
+    "name": "Paladins",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 82,
+    "name": "Phoenix Code",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 2,
+    "total_pcs": 43
+  },
+  {
+    "id": 17,
+    "name": "Photoshop",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 28,
+    "name": "Point Blank",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 4,
+    "total_pcs": 43
+  },
+  {
+    "id": 54,
+    "name": "R.E.P.O",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 4,
+    "total_pcs": 43
+  },
+  {
+    "id": 70,
+    "name": "REDLauncher",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 35,
+    "name": "Rainmeter",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 7,
+    "total_pcs": 43
+  },
+  {
+    "id": 42,
+    "name": "Riot Client",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 9,
+    "total_pcs": 43
+  },
+  {
+    "id": 16,
+    "name": "Roblox",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 26,
+    "total_pcs": 43
+  },
+  {
+    "id": 112,
+    "name": "SPSS",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 2,
+    "total_pcs": 43
+  },
+  {
+    "id": 110,
+    "name": "Samsung Dex",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 97,
+    "name": "ShootersPool",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 71,
+    "name": "Sleeping Dogs",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 2,
+    "total_pcs": 43
+  },
+  {
+    "id": 62,
+    "name": "Spotify",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 3,
+    "total_pcs": 43
+  },
+  {
+    "id": 101,
+    "name": "StarUML",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 31,
+    "name": "Steam",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 14,
+    "total_pcs": 43
+  },
+  {
+    "id": 123,
+    "name": "Stremio",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 72,
+    "name": "Stumble Guys",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 111,
+    "name": "TestQCWin-RMA",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 73,
+    "name": "The Witcher 3",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 74,
+    "name": "Thief Simulator",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 2,
+    "total_pcs": 43
+  },
+  {
+    "id": 91,
+    "name": "Tiktok Live Studio",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 2,
+    "total_pcs": 43
+  },
+  {
+    "id": 33,
+    "name": "Ubisoft Connect",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 34,
+    "name": "Unresolved Case",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 115,
+    "name": "Unsolved Case",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 80,
+    "name": "VFunLauncher",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 106,
+    "name": "VRoid Studio",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 43,
+    "name": "Valorant",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 7,
+    "total_pcs": 43
+  },
+  {
+    "id": 53,
+    "name": "Virtual Box Oracle",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 30,
+    "name": "WPS Office",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 11,
+    "total_pcs": 43
+  },
+  {
+    "id": 58,
+    "name": "Wallpaper Engine",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 48,
+    "name": "War Thunder",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 22,
+    "name": "Weather Zero",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 2,
+    "total_pcs": 43
+  },
+  {
+    "id": 113,
+    "name": "WebAdvisor McAfee",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 44,
+    "name": "Webadvisor McAfee",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 4,
+    "total_pcs": 43
+  },
+  {
+    "id": 92,
+    "name": "Whatsapp",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 1,
+    "total_pcs": 43
+  },
+  {
+    "id": 29,
+    "name": "Windsurf",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 2,
+    "total_pcs": 43
+  },
+  {
+    "id": 26,
+    "name": "Winrar",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 27,
+    "total_pcs": 43
+  },
+  {
+    "id": 39,
+    "name": "Z-Launcher",
+    "category": "other",
+    "description": "",
+    "created_at": "0001-01-01T00:00:00Z",
+    "updated_at": "0001-01-01T00:00:00Z",
+    "installed_count": 3,
+    "total_pcs": 43
+  }
+]
