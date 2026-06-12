@@ -51,9 +51,7 @@
         </div>
     </div>
 </nav>
-<style>
-body { padding-top: 56px; }
-</style>
+
     <div class="container-fluid my-4">
 
 
@@ -92,13 +90,13 @@ initPublicTable({
           }},
         { field: "condition", label: "Kondisi", sortable: true, filterable: true,
           render: function(v) {
-              var badge = {baik: "success", rusak: "danger", maintenance: "warning"}[v] || "secondary";
-              var label = {baik: "Baik", rusak: "Rusak", maintenance: "Maintenance"}[v] || v;
+              var badge = {normal: "success", rusak: "danger", warning: "warning"}[v] || "secondary";
+              var label = {normal: "Normal", rusak: "Rusak", warning: "Warning"}[v] || v;
               return '<span class="badge bg-' + badge + '">' + label + '</span>';
           }},
         { field: "location", label: "Lokasi", sortable: true },
         { field: "detail", label: "", sortable: false,
-          render: function(v, r) { return '<a href="/devices/detail/' + r.id + '.html" class="btn btn-sm btn-info"><i class="bi bi-eye"></i></a>'; } }
+          render: function(v, r) { return '<a href="/devices/detail/' + (r.asset_code).toLowerCase() + '.html" class="btn btn-sm btn-info"><i class="bi bi-eye"></i></a>'; } }
     ],
     searchFields: ["asset_code", "device_type_name", "category_name", "serial_number", "location"],
     pageSize: 50
